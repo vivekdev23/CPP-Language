@@ -17,7 +17,7 @@ class Test{
     
 };
 
-void Test :: setData(int r, int i){
+void Test :: setData(int r, int i){         
     real = r, img = i;
 }
 Test Sum(Test m, Test n)        // argument as object
